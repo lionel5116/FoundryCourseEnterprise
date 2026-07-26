@@ -1,0 +1,2 @@
+We’re launching an AI-as-a-service platform that lets companies plug advanced language models into their applications through a simple API.
+The product offers features like document summarization, sentiment analysis, chatbots, and data extraction, with built-in security, logging, and usage analytics. It targets mid-size businesses that want enterprise-grade AI capabilities without building their own infrastructure, and focuses on reducing development time while keeping costs predictable.
